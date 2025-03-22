@@ -1,0 +1,10 @@
+The goal of the video editing part of this project is to use the MoviePy software 
+to edit the length and size of videos of worms for our capstone project, and 
+possibly to accentuate worm movement with highlighting images like a red circle. 
+So far, the MoviePy software was downloaded from the following website:
+https://pypi.org/project/moviepy/ 
+Ideas for Python video editing tools were based of this site:
+https://cloudinary.com/guides/front-end-development/python-video-processing-6-useful-libraries-and-a-quick-tutorial#moviepy 
+The library was used to shorten a video of worms to only include the part where
+the camera was steady. In future projects, it will be used to crop this and other 
+videos to only include where worms of interest are swimming. 
